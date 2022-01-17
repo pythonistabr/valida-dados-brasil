@@ -1,4 +1,4 @@
-# validacao_dados_brasil
+# validacao-dados-brasil
 
 # ---
 Scripts para a validação de dados nacionas com python.

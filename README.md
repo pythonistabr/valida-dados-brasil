@@ -2,8 +2,8 @@
 
 # ---
 Scripts para a validação de dados nacionas com python.
-Autor: Gustavo Viana - @pythonistabr 
+<p> Autor: Gustavo Viana - @pythonistabr</p>
 # ---
 
 Esta pasta contém classes criadas como parte das atividades de
-um curso da formação "Programação em Python" da Alura.
+um curso dentro fa da formação "Programação em Python" da Alura.

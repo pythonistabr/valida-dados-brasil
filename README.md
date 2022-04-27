@@ -6,4 +6,4 @@ Scripts para a validação de dados nacionas com python.
 # ---
 
 Esta pasta contém classes criadas como parte das atividades de
-um curso dentro fa da formação "Programação em Python" da Alura.
+um curso dentro da formação "Python para Web" da Alura.
